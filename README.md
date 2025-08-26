@@ -1,5 +1,4 @@
-## Hi there 👋, I'm Gunta
-🔭 I am a Computer Science major!
+## Hi there 👋
 
 
 ## 🌐 Socials:
